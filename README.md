@@ -8,13 +8,13 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pruthvi7384)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PruthvirajRajput30)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthviraj-rajput-131ba61b4/)
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
 
 - 🌱 I’m currently learning **Android and iOS**;
-- 👯 I’m looking to collaborate on **web development related stuff**🤝;
+- 👯 I’m looking to collaborate on **web development related stuff or other technique**🤝;
 - 🤔 I’m looking for help with **Design Patterns** 😭;
 - 💬 Ask me about **coding** I love to;
 - 🌐 My Portfolio: Under Development;

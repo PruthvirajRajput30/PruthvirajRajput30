@@ -46,4 +46,3 @@ You can use the website to generate badges: https://shields.io/
 <img src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e474hpnbh2cdw4h9dflog0re83tfwzfhrea77yb08q6&rid=200.webp&ct=g" width="50" align="right">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" align="right">
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" align="right">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" align="right">
